@@ -1,0 +1,26 @@
+    .navbar{
+        background-color:  white;
+        border-radius: 10px;
+        
+    }
+    
+    .navbar-nav .nav-link {
+    color:black;
+    
+    }
+    .navbar-brand {
+        color: black
+    }
+    
+    .carousel-item{
+        transition: transform 2s ease, opacity .5s ease-out;
+       
+    }
+    .carousel-item img {
+        object-fit: cover;
+        height: 100%;
+      }
+      .footer {
+        background-color: rgb(45, 89, 89);
+
+      }
